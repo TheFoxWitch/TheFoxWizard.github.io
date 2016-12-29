@@ -51,7 +51,9 @@ input {
 .jumbotron {
     background: none;
 }
-
+.jumbotron h1 > ::nth-line(-n+4){
+    text-decoration: line-through;
+}
 .name {
     font-family: 'Comfortaa', cursive;
     letter-spacing: 2px;
@@ -210,14 +212,6 @@ form label {
     }
     #about p {
         text-align: center;
-    }
-    .strike {
-    text-decoration: line-through;
-    font-family: 'Comfortaa', sans-serif;
-    border-radius: 90px;
-    display: inline;
-    text-decoration: line-through;
-    margin:0 auto;
     }
 }
 
