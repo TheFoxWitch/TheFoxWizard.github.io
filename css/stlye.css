@@ -16,7 +16,7 @@ body {
     color: #fff;
 }
 
-.strike {
+.jumbotron>.strike {
     text-decoration: line-through;
     font-family: 'Comfortaa', sans-serif;
     border-radius: 90px;
