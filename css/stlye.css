@@ -22,7 +22,7 @@ body {
     border-radius: 90px;
     display: inline;
     text-decoration: line-through;
-}
+    margin:0 auto;
 }
 
 #name {
