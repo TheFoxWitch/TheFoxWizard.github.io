@@ -211,6 +211,14 @@ form label {
     #about p {
         text-align: center;
     }
+    .strike {
+    text-decoration: line-through;
+    font-family: 'Comfortaa', sans-serif;
+    border-radius: 90px;
+    display: inline;
+    text-decoration: line-through;
+    margin:0 auto;
+    }
 }
 
 @media (max-width:767px) {
