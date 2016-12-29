@@ -21,6 +21,8 @@ body {
     font-family: 'Comfortaa', sans-serif;
     border-radius: 90px;
     display: inline;
+    text-decoration: line-through;
+}
 }
 
 #name {
