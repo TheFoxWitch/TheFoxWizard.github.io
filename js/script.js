@@ -5,4 +5,4 @@ $(document).ready(function() {
     });
     $(window).scroll(function() {
         $("#about").css("opacity",2.65 - $(window).scrollTop() / 360);
-    });
+});
