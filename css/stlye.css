@@ -51,7 +51,7 @@ input {
 .jumbotron {
     background: none;
 }
-.jumbotron h1 > ::nth-line(-n+4){
+.strike{
     text-decoration: line-through;
 }
 .name {
