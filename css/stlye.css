@@ -35,13 +35,13 @@ body {
     display: flex;
     flex-direction: column;
     height: 400px;
-    margin-top: 50px;
+    margin-top: 60px;
     justify-content: center;
     text-align: center;
 }
 
 .top {
-    background-color: #aaa;
+    background-color: rgba(0,0,0,0);
 }
 
 input {
