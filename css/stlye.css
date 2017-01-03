@@ -95,6 +95,7 @@ input {
     position: relative;
     margin: 50px auto 200px auto;
     bottom: -50px;
+    overflow:hidden;
 }
 
 .font {
