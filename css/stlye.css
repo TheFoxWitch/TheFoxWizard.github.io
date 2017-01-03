@@ -29,7 +29,7 @@ body {
     margin:0 auto;
 }
 
-.name {
+#name {
     position: relative;
     align-items: center;
     display: flex;
