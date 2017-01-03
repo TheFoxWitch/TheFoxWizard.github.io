@@ -53,6 +53,7 @@ input {
 
 .jumbotron {
     background: none;
+    text-align:center;
 }
 .strike{
     text-decoration: line-through;
