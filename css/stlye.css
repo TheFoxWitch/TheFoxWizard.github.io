@@ -3,6 +3,10 @@ body {
     margin: 0 auto;
 }
 
+*, *:before, *:after {
+  box-sizing: border-box;
+}
+
 .navbar-brand {
     height: 50px;
 }
