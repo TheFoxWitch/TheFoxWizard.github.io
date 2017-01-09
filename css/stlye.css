@@ -74,8 +74,8 @@ input {
 }
 #about {
     position: relative;
-    margin-top: 10px;
-    margin-bottom: 250px;
+    margin-top: 5%;
+    margin-bottom: 24%;
 }
 
 #about h2 {
@@ -94,8 +94,7 @@ input {
 
 #projects {
     position: relative;
-    margin: 50px auto 100px auto;
-    bottom: -50px;
+    margin: 7% auto;
     overflow:hidden;
 }
 
@@ -109,7 +108,7 @@ input {
 }
 
 #contact {
-    margin: 315px auto auto auto;
+    margin: 20% auto 5% auto;
 }
 
 #contact h2 {
