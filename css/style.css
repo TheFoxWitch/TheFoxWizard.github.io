@@ -94,9 +94,9 @@ input {
 }
 
 #projects {
-    position: relative;
-    margin: 7% auto;
-    overflow:hidden;
+  position: relative;
+  margin: 111px auto 200px auto;
+  bottom: -100px;
 }
 
 .font {
@@ -109,7 +109,7 @@ input {
 }
 
 #contact {
-    margin: 20% auto 5% auto;
+    margin: 42% auto 5% auto;
 }
 
 #contact h2 {
